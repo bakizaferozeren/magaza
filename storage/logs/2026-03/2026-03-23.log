@@ -1,0 +1,11 @@
+[2026-03-23 02:35:19] [error] [::1] /magaza/public/urun/test | Controller bulunamadi: App\Controllers\Store\ProductController
+[2026-03-23 02:50:17] [error] [::1] /magaza/public/public_index.php | Controller bulunamadi: App\Controllers\Store\PageController
+[2026-03-23 02:50:41] [error] [::1] /magaza/public/public_index.php | Controller bulunamadi: App\Controllers\Store\PageController
+[2026-03-23 03:00:54] [error] [::1] /magaza/public/yonetim/kategoriler/ekle-ajax | Kategori hızlı ekle hatası: Class "App\Controllers\Admin\Cache" not found
+[2026-03-23 03:01:01] [error] [::1] /magaza/public/yonetim/kategoriler/ekle-ajax | Kategori hızlı ekle hatası: Class "App\Controllers\Admin\Cache" not found
+[2026-03-23 03:30:44] [error] [::1] /magaza/public/index.php | Controller bulunamadi: App\Controllers\Store\PageController
+[2026-03-23 03:34:14] [error] [::1] /magaza/public/urun/test | Controller bulunamadi: App\Controllers\Store\ProductController
+[2026-03-23 03:37:03] [error] [::1] /magaza/public/urun/test | Controller bulunamadi: App\Controllers\Store\ProductController
+[2026-03-23 03:37:26] [error] [::1] /magaza/public/sepet | Controller bulunamadi: App\Controllers\Store\CartController
+[2026-03-23 12:50:44] [error] [::1] /magaza/public/urun/test | Controller bulunamadi: App\Controllers\Store\ProductController
+[2026-03-23 12:50:49] [error] [::1] /magaza/public/sepet | Controller bulunamadi: App\Controllers\Store\CartController

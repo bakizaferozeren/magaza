@@ -1,0 +1,10 @@
+﻿RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Guvenlik
+<FilesMatch "\.(env|sql|log|bak)$">
+    Order Allow,Deny
+    Deny from all
+</FilesMatch>

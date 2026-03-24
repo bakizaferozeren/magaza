@@ -1,0 +1,4 @@
+<?php
+// invoices/index.php
+file_put_contents(__DIR__.'/invoice_index_placeholder.txt', 'placeholder');
+?>

@@ -1,0 +1,46 @@
+[2026-03-22 05:42:56] [error] [::1] /magaza/public/yonetim/ | Controller bulunamadi: App\Controllers\Admin\DashboardController
+[2026-03-22 05:47:57] [error] [::1] /magaza/public/yonetim/urunler/ekle | Controller bulunamadi: App\Controllers\Admin\ProductController
+[2026-03-22 05:48:04] [error] [::1] /magaza/public/yonetim/ayarlar/genel | Controller bulunamadi: App\Controllers\Admin\SettingController
+[2026-03-22 05:59:16] [error] [::1] /magaza/public/yonetim/ayarlar/guvenlik | Controller bulunamadi: App\Controllers\Admin\SettingController
+[2026-03-22 05:59:19] [error] [::1] /magaza/public/yonetim/urunler | Controller bulunamadi: App\Controllers\Admin\ProductController
+[2026-03-22 06:14:59] [error] [::1] /magaza/public/yonetim/kategoriler/ekle | Controller bulunamadi: App\Controllers\Admin\CategoryController
+[2026-03-22 06:15:02] [error] [::1] /magaza/public/yonetim/markalar/ekle | Controller bulunamadi: App\Controllers\Admin\BrandController
+[2026-03-22 06:18:29] [error] [::1] /magaza/public/yonetim/kategoriler | Controller bulunamadi: App\Controllers\Admin\CategoryController
+[2026-03-22 06:33:02] [error] [::1] /magaza/public/yonetim/ayarlar/guvenlik | Controller bulunamadi: App\Controllers\Admin\SettingController
+[2026-03-22 06:33:08] [error] [::1] /magaza/public/yonetim/ayarlar/genel | Controller bulunamadi: App\Controllers\Admin\SettingController
+[2026-03-22 16:19:13] [error] [::1] /magaza/public/ | Controller bulunamadi: App\Controllers\Store\HomeController
+[2026-03-22 17:03:37] [error] [::1] /magaza/public/yonetim/kategoriler | Controller bulunamadi: App\Controllers\Admin\CategoryController
+[2026-03-22 17:13:38] [error] [::1] /magaza/public/yonetim/markalar/ekle | Marka oluşturulurken hata: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'short_desc' in 'field list'
+[2026-03-22 17:13:57] [error] [::1] /magaza/public/yonetim/markalar/ekle | Marka oluşturulurken hata: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'short_desc' in 'field list'
+[2026-03-22 17:16:28] [error] [::1] /magaza/public/yonetim/markalar/ekle | Marka oluşturulurken hata: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'short_desc' in 'field list'
+[2026-03-22 17:17:11] [error] [::1] /magaza/public/yonetim/markalar/ekle | Marka oluşturulurken hata: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'short_desc' in 'field list'
+[2026-03-22 17:37:36] [error] [::1] /magaza/public/yonetim/ayarlar/google | Controller bulunamadi: App\Controllers\Admin\GoogleController
+[2026-03-22 17:38:01] [error] [::1] /magaza/public/yonetim/ayarlar/google | Controller bulunamadi: App\Controllers\Admin\GoogleController
+[2026-03-22 17:48:35] [error] [::1] /magaza/public/yonetim/sayfalar | Controller bulunamadi: App\Controllers\Admin\PageController
+[2026-03-22 17:48:38] [error] [::1] /magaza/public/yonetim/menuler | Controller bulunamadi: App\Controllers\Admin\MenuController
+[2026-03-22 17:48:41] [error] [::1] /magaza/public/yonetim/sss | Controller bulunamadi: App\Controllers\Admin\FaqController
+[2026-03-22 17:49:15] [error] [::1] /magaza/public/yonetim/bulten | Controller bulunamadi: App\Controllers\Admin\NewsletterController
+[2026-03-22 17:49:17] [error] [::1] /magaza/public/yonetim/kvkk | Controller bulunamadi: App\Controllers\Admin\GdprController
+[2026-03-22 17:49:25] [error] [::1] /magaza/public/yonetim/degerlendirmeler | Controller bulunamadi: App\Controllers\Admin\ReviewController
+[2026-03-22 17:49:30] [error] [::1] /magaza/public/yonetim/iadeler | Controller bulunamadi: App\Controllers\Admin\ReturnController
+[2026-03-22 18:55:18] [error] [::1] /magaza/public/yonetim/nitelikler | Controller bulunamadi: App\Controllers\Admin\AttributeController
+[2026-03-22 18:55:20] [error] [::1] /magaza/public/yonetim/degerlendirmeler | Controller bulunamadi: App\Controllers\Admin\ReviewController
+[2026-03-22 18:55:24] [error] [::1] /magaza/public/yonetim/faturalar | Controller bulunamadi: App\Controllers\Admin\InvoiceController
+[2026-03-22 18:55:26] [error] [::1] /magaza/public/yonetim/iadeler | Controller bulunamadi: App\Controllers\Admin\ReturnController
+[2026-03-22 18:58:29] [error] [::1] /magaza/public/yonetim/nitelikler | Controller bulunamadi: App\Controllers\Admin\AttributeController
+[2026-03-22 18:58:41] [error] [::1] /magaza/public/yonetim/kuponlar | Controller bulunamadi: App\Controllers\Admin\CouponController
+[2026-03-22 19:00:17] [error] [::1] /magaza/public/yonetim/popuplar | Controller bulunamadi: App\Controllers\Admin\PopupController
+[2026-03-22 19:00:56] [error] [::1] /magaza/public/yonetim/urunler/ekle | Ürün eklenirken hata: There is already an active transaction
+[2026-03-22 22:10:03] [error] [::1] /magaza/public/yonetim/kuponlar | Controller bulunamadi: App\Controllers\Admin\CouponController
+[2026-03-22 22:10:07] [error] [::1] /magaza/public/yonetim/kuponlar | Controller bulunamadi: App\Controllers\Admin\CouponController
+[2026-03-22 22:10:15] [error] [::1] /magaza/public/yonetim/sliderlar | Controller bulunamadi: App\Controllers\Admin\SliderController
+[2026-03-22 22:10:20] [error] [::1] /magaza/public/yonetim/sliderlar | Controller bulunamadi: App\Controllers\Admin\SliderController
+[2026-03-22 22:10:36] [error] [::1] /magaza/public/yonetim/sayfalar | Controller bulunamadi: App\Controllers\Admin\PageController
+[2026-03-22 22:10:37] [error] [::1] /magaza/public/yonetim/sss | Controller bulunamadi: App\Controllers\Admin\FaqController
+[2026-03-22 22:11:16] [error] [::1] /magaza/public/yonetim/sss | Controller bulunamadi: App\Controllers\Admin\FaqController
+[2026-03-22 22:11:17] [error] [::1] /magaza/public/yonetim/sayfalar | Controller bulunamadi: App\Controllers\Admin\PageController
+[2026-03-22 22:11:40] [error] [::1] /magaza/public/yonetim/sliderlar | Controller bulunamadi: App\Controllers\Admin\SliderController
+[2026-03-22 22:11:57] [error] [::1] /magaza/public/yonetim/kuponlar | Controller bulunamadi: App\Controllers\Admin\CouponController
+[2026-03-22 22:53:19] [error] [::1] /magaza/public/yonetim/kuponlar | Controller bulunamadi: App\Controllers\Admin\CouponController
+[2026-03-22 22:53:55] [error] [::1] /magaza/public/yonetim/sayfalar | Controller bulunamadi: App\Controllers\Admin\PageController
+[2026-03-22 23:00:24] [error] [::1] /magaza/public/yonetim/urunler/ekle | Ürün eklenirken hata: There is already an active transaction
